@@ -1,0 +1,5 @@
+dim u as integer =10
+for i as integer = 0 to 100
+u=u+i
+next
+msgbox(u.tostring()
